@@ -1,0 +1,16 @@
+{
+	"name": "Translator",
+	"description": "Shortcut to Google Translate",
+	"version": "1.0",
+	"permissions": ["contextMenus"],
+	"background": {
+		"scripts": ["app.js"]
+	},
+	"icons": {
+		"16": "icon-16.png",
+		"24": "icon-24.png",
+		"32": "icon-32.png",
+		"128": "icon-128.png"
+	},
+	"manifest_version": 2
+}
